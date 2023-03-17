@@ -37,8 +37,8 @@ A website like Gmail which is created using ReactJS, the React-Router is impleme
 - [About the Project](#star2-about-the-project)
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
-  - [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
+  - [Firebase Config](#key-firebase-config)
+  - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
   - [Installation](#gear-installation)
   - [Run Locally](#running-run-locally)
@@ -56,9 +56,12 @@ A website like Gmail which is created using ReactJS, the React-Router is impleme
 - Application Home page & Demo
 
 <div align="center">
-<a href="[https://movie-sapp.netlify.app](https://clo-c911f.web.app/)" target="_blank"><img  src='./demo/ezgif-2-b23fb77da9.gif' alt='image'/></a>
+<a href="https://clo-c911f.web.app/" target="_blank"><img  src='./demo/ezgif-2-b23fb77da9.gif' alt='image'/></a>
 </div>
 
+
+
+https://user-images.githubusercontent.com/86107841/225989243-f717d3bf-441d-4478-82f9-0f07de0b6584.mp4
 
 
 
@@ -242,7 +245,7 @@ First, run the development server:
   npm run start
 ```
 
-This is a [Next.js](https://react.dev/) project bootstrapped with [`create-next-app`](https://github.com/facebook/create-react-app).
+This is a [Reac.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
