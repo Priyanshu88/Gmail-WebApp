@@ -2,7 +2,7 @@
 
   <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png" alt="logo" width="200" height="auto" />
 
-  <h1>Gmail with REACT.JS!</h1>
+  <h1>Gmail WebApp with REACT.JS!</h1>
 
   <p>
 A website like Gmail which is created using ReactJS, the React-Router is implemented for the mail page, React-Redux has been used as a state management tool. The firebase is used for the authentication and firebase firestore is used as a database. React-Hook-Form is used for compose and Material-UI icons have been used.
