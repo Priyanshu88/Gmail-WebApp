@@ -224,25 +224,25 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu88/Gmail-WebApp.git
+git clone https://github.com/Priyanshu88/Gmail-WebApp.git
 ```
 
 ```bash
-  cd Gmail-WebApp
+cd Gmail-WebApp
 ```
 
 Install dependencies
 This is a [React.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 First, run the development server:
 
 ```bash
-  npm run start
+npm run start
 ```
 
 This is a [Reac.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
@@ -267,16 +267,16 @@ To deploy this project run
 
 ##### Commands
 ```bash
-  firebase login
+firebase login
 ```
 ```bash
-  firebase init
+firebase init
 ```
 ```bash
-  npm run build
+npm run build
 ```
 ```bash
-  firebase deploy
+firebase deploy
 ```
 <!-- 
 ##### Deploy on Netlify
