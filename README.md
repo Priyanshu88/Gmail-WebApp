@@ -38,7 +38,7 @@ A website like Gmail which is created using ReactJS, the React-Router is impleme
   - [Screenshots](#camera-screenshots)
   - [Tech Stack](#space_invader-tech-stack)
   - [Firebase Config](#key-firebase-config)
-  - [Getting Started](#toolbox-getting-started)
+- [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
   - [Installation](#gear-installation)
   - [Run Locally](#running-run-locally)
@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/86107841/225989243-f717d3bf-441d-4478-
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Database and Hosting</summary>
   <ul>
     <li><a href="https://firebase.google.com/">Firebase</a></li>
   </ul>
@@ -279,7 +279,7 @@ npm run build
 firebase deploy
 ```
 <!-- 
-##### Deploy on Netlify
+##### Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Netlify Platform](https://app.netlify.com/) from the creators of Next.js.
 
