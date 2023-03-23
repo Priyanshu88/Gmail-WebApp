@@ -245,16 +245,12 @@ First, run the development server:
 npm run start
 ```
 
-This is a [Reac.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
+This is a [React.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `src/app.js`. The page auto-updates as you edit the file.
 
-<!-- [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`. -->
-
-<!-- The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
- -->
 ### Learn More
 
 This project uses [`react-hook-form`](https://react-hook-form.com/) to compose the mails.
@@ -278,20 +274,6 @@ npm run build
 ```bash
 firebase deploy
 ```
-<!-- 
-##### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Netlify Platform](https://app.netlify.com/) from the creators of Next.js.
-
-Check out our [Netlify deployment documentation](https://docs.netlify.com/) for more details. -->
-
-<!-- ##### Backend (server)
- -->
-<!-- ##### Deploy on Railway
-
-The easiest way to deploy your server is to use the [Railway Platform](https://railway.app/) from the creators of Next.js.
-
-Check out our [Railway deployment documentation](https://docs.railway.app/deploy/deployments) for more details. -->
 
 ## :handshake: Contact
 
