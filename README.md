@@ -123,7 +123,7 @@ https://user-images.githubusercontent.com/86107841/225989243-f717d3bf-441d-4478-
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/225980120-628b73b6-5c90-48d7-bd5d-92858e781710.png" alt="" width="30" height="30" /></a>
         </td>
          <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/86107841/225980482-cfd6e246-6684-4e3a-a067-a59875d6c6a7.jpg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
         </td>                                          
     </tr>
 </table>
