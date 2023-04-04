@@ -159,6 +159,8 @@ To run this project, you will need to add the following config of your project t
 
 ### :gear: Installation
 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 Install my-project with npm
 
 ```bash
@@ -172,6 +174,8 @@ cd my-project
 Install dependencies
 
 ### :test_tube: Install Firebase and Material UI
+
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 #### Install Firebase
 
@@ -221,6 +225,8 @@ Install dependencies
 
 ### :running: Run Locally
 
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 Clone the project
 
 ```bash
@@ -259,6 +265,8 @@ This project uses [`react-hook-form`](https://react-hook-form.com/) to compose t
 
 ### :triangular_flag_on_post: Deployment
 
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 To deploy this project run
 
 ##### Commands
@@ -276,6 +284,8 @@ firebase deploy
 ```
 
 ## :handshake: Contact
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
