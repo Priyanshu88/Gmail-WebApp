@@ -111,7 +111,7 @@ https://user-images.githubusercontent.com/86107841/225989243-f717d3bf-441d-4478-
 <table>
     <tr>
         <td>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1" alt="" width="30" height="30" /></a>
         </td>
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/225979374-f10f15a3-db41-4eaa-812d-8a6509049424.png" alt="Google" width="30" height="30" /></a>
